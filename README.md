@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <picture>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+董阿兵%F0%9F%91%8B">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5086A1FF&center=true&vCenter=true&random=false&width=280&lines=Hi%2CI'm+dongab!%F0%9F%91%8B">
 </picture>
 
 TypeScript enthusiast, Node.js user, Rust & Harmony beginner
